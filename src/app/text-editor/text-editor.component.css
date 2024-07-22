@@ -1,0 +1,26 @@
+
+#editorOptions
+{
+  text-align: right;
+}
+
+.active {
+  background-color : darkgray;
+}
+
+#input {
+    -moz-appearance: textfield;
+    -webkit-appearance: textfield;
+    background-color: white;
+    background-color: -moz-field;
+    border: 1px solid darkgray;
+    font: -moz-field;
+    font: -webkit-small-control;
+    padding: 2px 3px;
+    height:135px;
+    overflow: auto;
+}
+
+button {
+  background-color: lightgray;
+}
